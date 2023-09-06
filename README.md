@@ -29,6 +29,7 @@ Feel free to use and share this list to promote authentic information and knowle
 | RichardAH 🪝           | @RichardXRPL          | [Twitter Profile](https://twitter.com/RichardXRPL) | [GitHub](https://github.com/RichardXRPL)        |
 | tequ                   | @_tequ_               | [Twitter Profile](https://twitter.com/_tequ_) | -                                              |
 | TheShillverse          | @theshillverse        | [Twitter Profile](https://twitter.com/theshillverse) | [GitHub](https://github.com/theshillverse)      |
+| Vet_X0                 | @Vet_X0               | [Twitter Profile](https://twitter.com/Vet_X0) | -                                              |
 | Viacheslav Bakshaev 🪝 | @Bakshayev            | [Twitter Profile](https://twitter.com/Bakshayev) | -                                              |
 | WietseWind (🛠+🪝 Xumm @ XRPL Labs) | @WietseWind | [Twitter Profile](https://twitter.com/WietseWind) | [GitHub](https://github.com/WietseWind)        |
 | XRPL Labs 🪝           | @XRPLLabs             | [Twitter Profile](https://twitter.com/XRPLLabs) | [GitHub](https://github.com/XRPLLabs)          |
@@ -37,4 +38,4 @@ Feel free to use and share this list to promote authentic information and knowle
 
 ---
 
-Feel free to copy and paste this Markdown code into a README.md file in your GitHub repository. You can add the other segment of informers below the separator lines as needed.
+Feel free to copy and paste this Markdown code into a README.md file in your GitHub repository.
